@@ -1,4 +1,4 @@
-sw92057, Kai Vilbig, cheesecake, 435, Computer Science
+This Raytracer uses an external library: Eigen 
+git clone https://gitlab.com/libeigen/eigen.git
 
-To build, use command: make
-To run, use ./a.out file.nff
+To build and run, use command: make
